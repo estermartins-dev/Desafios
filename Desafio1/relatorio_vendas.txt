@@ -1,0 +1,17 @@
+=== Relatório de Vendas ===
+Cliente: roger
+Produto: ovo
+Quantidade: 10
+Valor Bruto: R$ 20.00
+Desconto: R$ 0.00
+Valor Final: R$ 20.00
+----------------------------------------
+Cliente: roger
+Produto: leite
+Quantidade: 10
+Valor Bruto: R$ 50.00
+Desconto: R$ 0.00
+Valor Final: R$ 50.00
+----------------------------------------
+
+Total arrecadado: R$ 70.00
